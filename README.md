@@ -6,7 +6,7 @@
 -  Learning HTML, CSS, JavaScript, and Git/GitHub workflows
 -  All my projects are available on [GitHub](https://github.com/adeshj)
 -  Ask me about HTML, Git, GitHub, and project organization
--  Reach me at your-9675sjk@gmail.com
+-  Reach me at 9675sjk@gmail.com
 -  Fun fact: I love seeing my code live online!
 
 ## 🔗 Connect with me:
